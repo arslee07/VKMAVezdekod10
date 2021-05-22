@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vezdekod/static/css/main.61da5802.chunk.css",
+    "main.js": "/vezdekod/static/js/main.eb749e9c.chunk.js",
+    "main.js.map": "/vezdekod/static/js/main.eb749e9c.chunk.js.map",
+    "runtime-main.js": "/vezdekod/static/js/runtime-main.a96cebbb.js",
+    "runtime-main.js.map": "/vezdekod/static/js/runtime-main.a96cebbb.js.map",
+    "static/js/2.e1f04a78.chunk.js": "/vezdekod/static/js/2.e1f04a78.chunk.js",
+    "static/js/2.e1f04a78.chunk.js.map": "/vezdekod/static/js/2.e1f04a78.chunk.js.map",
+    "index.html": "/vezdekod/index.html",
+    "static/css/main.61da5802.chunk.css.map": "/vezdekod/static/css/main.61da5802.chunk.css.map",
+    "static/js/2.e1f04a78.chunk.js.LICENSE.txt": "/vezdekod/static/js/2.e1f04a78.chunk.js.LICENSE.txt",
+    "static/media/dan.4e96b2cd.png": "/vezdekod/static/media/dan.4e96b2cd.png",
+    "static/media/val.e5ea73fe.png": "/vezdekod/static/media/val.e5ea73fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96cebbb.js",
+    "static/js/2.e1f04a78.chunk.js",
+    "static/css/main.61da5802.chunk.css",
+    "static/js/main.eb749e9c.chunk.js"
+  ]
+}
